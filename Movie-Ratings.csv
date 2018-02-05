@@ -1,0 +1,563 @@
+Film,Genre,ReleaseYear,AudienceRating,RottenTomatoRating,Budget
+(500) Days of Summer ,Comedy,2009,81,87,8
+"10,000 B.C.",Adventure,2008,44,9,105
+12 Rounds ,Action,2009,52,30,20
+127 Hours,Adventure,2010,84,93,18
+17 Again ,Comedy,2009,70,55,20
+2012,Action,2009,63,39,200
+27 Dresses,Comedy,2008,71,40,30
+30 Days of Night,Horror,2007,57,50,32
+30 Minutes or Less,Comedy,2011,48,43,28
+50/50,Comedy,2011,93,93,8
+88 Minutes,Drama,2007,51,5,30
+A Dangerous Method,Drama,2011,89,79,20
+A Nightmare on Elm Street,Horror,2010,40,13,35
+A Serious Man ,Drama,2009,64,89,7
+A Very Harold and Kumar Christmas,Comedy,2011,71,72,19
+Abduction,Action,2011,46,4,35
+Across the Universe,Romance,2007,84,54,45
+Adventureland ,Comedy,2009,56,89,10
+Albert Nobbs,Drama,2011,43,53,8
+Alice in Wonderland,Adventure,2010,72,52,200
+Alien vs. Predator -- Requiem,Horror,2007,37,14,40
+Aliens in the Attic ,Adventure,2009,46,30,45
+All About Steve ,Comedy,2009,35,6,15
+All Good Things,Drama,2010,64,33,20
+Amelia ,Adventure,2009,35,21,40
+American Gangster,Thriller,2007,87,79,100
+An Education,Drama,2009,78,94,8
+Anonymous,Drama,2011,66,46,30
+Apollo 18,Horror,2011,31,23,5
+Appaloosa,Action,2008,55,77,20
+Armored ,Action,2009,34,40,20
+Arthur,Comedy,2011,49,26,40
+Australia,Adventure,2008,69,55,78
+Avatar ,Action,2009,92,83,237
+Away We Go ,Comedy,2009,74,67,21
+Baby Mama,Comedy,2008,59,63,70
+Babylon A.D.,Action,2008,32,7,45
+Bad Teacher,Comedy,2011,38,44,20
+Bandslam ,Comedy,2009,60,79,20
+Bangkok Dangerous,Action,2008,33,9,45
+Battle: Los Angeles,Action,2011,50,35,70
+"Be Kind, Rewind",Comedy,2008,57,65,20
+Beastly,Romance,2011,50,19,17
+Bedtime Stories,Comedy,2008,63,25,80
+Beginners,Comedy,2010,80,84,4
+Beowulf,Action,2007,52,71,150
+Beverly Hills Chihuahua,Adventure,2008,56,41,20
+Black Swan        ,Drama,2010,86,88,13
+Blades of Glory,Comedy,2007,66,69,61
+Body of Lies,Action,2008,65,53,68
+Bride Wars ,Comedy,2009,56,11,30
+Bridesmaids,Comedy,2011,77,90,33
+Brooklyn's Finest,Action,2009,47,42,17
+Brothers ,Drama,2009,62,61,26
+Bruno ,Comedy,2009,48,68,42
+Buried,Drama,2010,63,86,2
+Burlesque,Drama,2010,66,36,55
+Burn After Reading,Comedy,2008,64,78,37
+Captain America: The First Avenger,Action,2011,75,78,140
+Case 39,Horror,2009,42,23,26
+Cats & Dogs: The Revenge of Kitty Galore,Action,2010,43,13,85
+Cedar Rapids,Comedy,2011,61,86,10
+Changeling,Drama,2008,84,62,55
+Cirque du Freak: The Vampire's Assistant ,Action,2009,50,38,40
+City Island,Comedy,2009,77,81,6
+City of Ember,Adventure,2008,48,52,38
+Clash of the Titans,Action,2010,48,28,125
+Cloverfield,Action,2008,67,77,25
+College Road Trip,Adventure,2008,56,13,140
+Colombiana,Action,2011,55,28,40
+Conan the Barbarian,Action,2011,34,22,90
+Confessions of a Shopaholic ,Comedy,2009,53,24,70
+Contagion,Thriller,2011,63,84,60
+Cop Out,Action,2010,45,19,30
+Country Strong,Drama,2010,56,20,15
+Couples Retreat ,Comedy,2009,47,12,60
+Cowboys and Aliens,Action,2011,50,44,163
+Crank: High Voltage ,Action,2009,54,62,13
+"Crazy, Stupid, Love",Romance,2011,81,78,50
+Cyrus,Comedy,2010,51,80,7
+Daddy Day Camp,Comedy,2007,63,1,6
+Dance Flick ,Action,2009,35,17,25
+Date Night,Comedy,2010,58,66,55
+"Daybreakers	",Action,2009,50,67,20
+Dear John,Drama,2010,66,29,25
+Death at a Funeral,Comedy,2007,48,40,21
+Death Race,Action,2008,69,42,45
+"Definitely, Maybe",Comedy,2008,72,71,7
+Devil,Horror,2010,45,52,10
+Diary of a Wimpy Kid,Comedy,2010,49,53,15
+Diary of a Wimpy Kid 2: Rodrick Rules,Comedy,2011,63,47,21
+Did You Hear About the Morgans? ,Comedy,2009,31,12,58
+Dinner for Schmucks,Comedy,2010,47,43,69
+Disaster Movie,Comedy,2008,28,2,20
+District 9 ,Action,2009,81,91,30
+Disturbia,Thriller,2007,75,67,20
+Dolphin Tale,Drama,2011,81,84,37
+Don't Be Afraid Of The Dark,Horror,2010,37,59,25
+Doomsday,Action,2008,47,48,33
+Doubt,Drama,2008,75,78,25
+Drag Me to Hell ,Horror,2009,61,92,30
+Dragon Wars (aka D-War),Action,2007,44,27,75
+Dragonball Evolution ,Action,2009,28,15,30
+Dream House,Horror,2011,38,7,50
+Drillbit Taylor,Comedy,2008,49,26,40
+Drive,Thriller,2011,79,93,15
+Drive Angry,Action,2011,38,45,45
+Due Date,Comedy,2010,56,40,50
+Duplicity ,Romance,2009,38,64,60
+Dylan Dog: Dead of Night,Horror,2010,28,6,20
+Eagle Eye,Action,2008,72,27,80
+Easy A,Comedy,2010,75,85,8
+"Eat Pray Love	",Drama,2010,46,36,60
+Enchanted,Comedy,2007,80,93,85
+Epic Movie,Comedy,2007,38,2,20
+Evan Almighty,Comedy,2007,56,23,175
+Everybody's Fine ,Drama,2009,55,46,21
+Everything Must Go,Drama,2010,53,74,5
+Extract ,Comedy,2009,37,62,8
+"Extraordinary Measures	",Drama,2010,55,27,31
+Extremely Loud and Incredibly Close,Drama,2011,62,47,40
+Fame,Comedy,2009,43,25,18
+Fantastic Four: Rise of the Silver Surfer,Action,2007,55,35,130
+Fast and Furious ,Action,2009,76,28,85
+Fast Five,Action,2011,83,78,125
+"Faster	",Action,2010,50,41,24
+Final Destination 5,Horror,2011,56,61,40
+Fired Up! ,Comedy,2009,52,22,20
+Fireproof,Drama,2008,51,40,1
+First Sunday,Comedy,2008,59,13,13
+Fool's Gold,Adventure,2008,53,11,73
+Footloose,Drama,2011,71,71,24
+For Colored Girls,Drama,2010,73,33,21
+Forgetting Sarah Marshall,Comedy,2008,75,85,30
+Four Christmases,Comedy,2008,52,26,80
+Friday the 13th,Horror,2009,52,25,19
+Friends With Benefits,Romance,2011,68,71,35
+Fright Night,Horror,2011,68,75,30
+From Paris with Love,Action,2010,57,38,52
+Funny People ,Comedy,2009,58,68,75
+"Furry Vengeance	",Comedy,2010,36,8,35
+G-Force ,Action,2009,50,22,150
+G.I. Joe: The Rise of Cobra ,Action,2009,62,33,175
+Gamer ,Action,2009,43,29,13
+Get Him to the Greek,Comedy,2010,63,73,40
+Get Smart,Action,2008,73,51,80
+Ghost Rider,Action,2007,56,28,110
+Ghost Town,Comedy,2008,60,85,20
+Ghosts of Girlfriends Past ,Comedy,2009,47,27,50
+Going the Distance,Comedy,2010,56,53,32
+Good Luck Chuck,Comedy,2007,61,3,25
+Gran Torino,Drama,2008,90,80,33
+Green Lantern,Action,2011,48,27,200
+Green Zone,Action,2010,60,53,100
+Greenberg,Comedy,2010,40,75,0
+Grindhouse,Action,2007,86,82,53
+"Grown Ups	",Comedy,2010,59,10,80
+Gulliver's Travels,Comedy,2010,31,21,112
+Hachiko: A Dog's Story,Drama,2009,85,58,16
+Hall Pass,Comedy,2011,44,35,36
+Halloween,Horror,2007,64,26,20
+Halloween II,Horror,2009,45,20,15
+Hancock,Action,2008,67,40,150
+Hanna,Action,2011,67,71,30
+Hannah Montana: The Movie ,Comedy,2009,66,44,35
+Harold and Kumar Escape from Guantanamo Bay,Adventure,2008,65,54,12
+Harry Potter and the Deathly Hallows Part 1,Adventure,2010,87,79,125
+Harry Potter and the Half-Blood Prince ,Adventure,2009,75,83,250
+Harry Potter and the Order of the Phoenix,Adventure,2007,82,78,150
+He's Just Not That Into You ,Comedy,2009,60,42,25
+Hellboy II: The Golden Army,Action,2008,70,87,83
+Hesher,Drama,2010,68,54,7
+High School Musical 3: Senior Year,Comedy,2008,76,65,11
+Hitman,Action,2007,61,15,18
+Horrible Bosses,Comedy,2011,72,69,35
+Hostel: Part II,Horror,2007,45,44,10
+Hot Tub Time Machine,Adventure,2010,57,64,36
+Hotel for Dogs ,Comedy,2009,57,46,35
+Hugo,Adventure,2011,84,93,150
+I Am Legend,Thriller,2007,69,69,150
+I Am Number Four,Thriller,2011,57,32,60
+I Love You Beth Cooper ,Comedy,2009,38,14,18
+I Love You Phillip Morris,Comedy,2009,57,71,15
+"I Love You, Man ",Comedy,2009,72,83,40
+I Now Pronounce You Chuck and Larry,Comedy,2007,73,13,85
+I'm Still Here,Comedy,2010,38,52,0
+Imagine That ,Comedy,2009,44,38,55
+Immortals,Action,2011,59,36,75
+In the Land of Women,Comedy,2007,72,43,10
+In Time,Thriller,2011,55,38,40
+Inception,Action,2010,93,86,160
+Indiana Jones and the Kingdom of the Crystal Skull,Action,2008,59,77,185
+Inglourious Basterds ,Adventure,2009,87,88,70
+Inkheart ,Adventure,2008,51,39,60
+Insidious,Horror,2008,65,67,2
+Into the Wild,Drama,2007,90,82,15
+Iron Man,Action,2008,91,94,186
+Iron Man 2,Action,2010,80,74,200
+It's Complicated ,Comedy,2009,63,56,85
+J.Edgar,Drama,2011,84,42,35
+Jack and Jill,Comedy,2011,59,4,79
+Jane Eyre,Romance,2011,77,85,0
+Jennifer's Body ,Comedy,2009,37,42,16
+Johnny English Reborn,Comedy,2011,55,38,45
+Jonah Hex,Action,2010,24,13,47
+Journey to the Center of the Earth,Action,2008,55,61,45
+Jumper,Action,2008,50,16,83
+Juno,Comedy,2007,89,94,8
+Just Go With It,Romance,2011,63,19,80
+Just Wright,Comedy,2010,58,45,12
+Kick-Ass,Action,2010,83,76,30
+Killer Elite,Action,2011,48,25,70
+Killers,Action,2010,45,11,75
+Kit Kittredge: An American Girl,Drama,2008,26,78,10
+Knight and Day,Action,2010,52,53,117
+Knocked Up,Comedy,2007,83,91,33
+Knowing ,Drama,2009,50,33,50
+Land of the Lost ,Drama,2009,38,26,100
+Larry Crowne,Drama,2011,46,34,30
+Leap Year,Comedy,2010,49,21,19
+Leatherheads,Comedy,2008,41,52,58
+Legion,Action,2010,36,19,26
+Letters to Juliet,Comedy,2010,62,40,30
+License to Wed,Comedy,2007,55,8,35
+Life as We Know It,Comedy,2010,62,28,38
+Limitless,Thriller,2011,73,69,27
+Lions for Lambs,Drama,2007,48,27,35
+Little Fockers,Comedy,2010,40,9,100
+Live Free or Die Hard,Action,2007,86,79,110
+Love & Other Drugs,Comedy,2010,55,48,30
+Love Happens ,Drama,2009,40,18,18
+MacGruber,Action,2010,33,47,10
+Machete,Action,2010,66,73,20
+Machine Gun Preacher,Action,2011,71,29,30
+Mad Money,Comedy,2008,51,22,22
+Made of Honor,Comedy,2008,61,13,40
+Mamma Mia!,Comedy,2008,76,53,66
+Margin Call,Thriller,2011,73,86,4
+Marley and Me,Comedy,2008,77,63,55
+Marmaduke,Comedy,2010,46,9,50
+Max Payne,Action,2008,36,16,35
+Meet Dave,Adventure,2008,42,19,60
+Meet the Spartans,Comedy,2008,31,2,30
+Michael Clayton,Thriller,2007,72,90,25
+Midnight in Paris,Romance,2011,84,93,17
+Miracle at St. Anna,Action,2008,68,34,45
+Mirrors,Horror,2008,49,14,35
+Miss Pettigrew Lives for a Day,Comedy,2008,70,78,60
+Mission Impossible 4,Action,2011,86,93,145
+Moneyball,Drama,2011,89,95,50
+Monte Carlo,Romance,2011,50,38,20
+Morning Glory,Comedy,2010,54,54,40
+Mother and Child,Drama,2009,61,79,7
+Mr. Brooks,Thriller,2007,75,56,20
+Mr. Popper's Penguins,Comedy,2011,54,47,55
+Music and Lyrics,Romance,2007,70,63,40
+My Best Friend's Girl,Comedy,2008,51,14,20
+My Life in Ruins ,Comedy,2009,43,9,17
+My Sister's Keeper ,Drama,2009,73,47,28
+My Soul to Take,Horror,2010,29,9,25
+My Week with Marilyn,Drama,2011,84,83,10
+Nancy Drew,Thriller,2007,61,49,20
+Nanny McPhee Returns,Comedy,2010,54,77,35
+National Treasure: Book of Secrets,Thriller,2007,72,31,130
+Never Back Down,Action,2008,37,23,21
+Never Let Me Go,Drama,2010,70,70,15
+New Year's Eve,Romance,2011,48,8,56
+Next,Thriller,2007,59,29,70
+Next Day Air ,Action,2009,27,21,3
+Nick and Norah's Infinite Playlist,Comedy,2008,67,73,10
+Night at the Museum: Battle of the Smithsonian ,Action,2009,60,43,150
+Nights in Rodanthe,Drama,2008,56,31,30
+Nim's Island,Adventure,2008,50,51,37
+Nine ,Drama,2009,40,37,80
+Ninja Assassin ,Action,2009,57,25,50
+No Country for Old Men,Drama,2007,84,95,25
+No Reservations,Comedy,2007,64,39,28
+No Strings Attached,Comedy,2011,57,49,25
+Norbit,Comedy,2007,56,9,60
+Not Easily Broken ,Drama,2009,66,34,5
+Observe and Report ,Comedy,2009,40,51,18
+Obsessed ,Drama,2009,50,20,20
+Ocean's 13,Thriller,2007,74,70,85
+Old Dogs ,Comedy,2009,49,5,35
+One Day,Romance,2011,54,37,15
+One Missed Call,Horror,2008,36,0,20
+Orphan ,Horror,2009,65,55,30
+Our Family Wedding,Comedy,2010,49,14,0
+Our Idiot Brother,Comedy,2011,79,68,5
+Over Her Dead Body,Comedy,2008,47,15,10
+P.S. I Love You,Romance,2007,82,21,30
+Pandorum ,Action,2009,49,28,40
+Paranormal Activity ,Horror,2007,56,82,1
+Paranormal Activity 2,Horror,2010,0,0,3
+Paranormal Activity 3,Horror,2011,58,68,5
+Pathfinder: Legend of the Ghost Warrior,Action,2007,41,11,26
+Paul,Comedy,2011,70,72,40
+Paul Blart: Mall Cop ,Action,2009,50,33,26
+Penelope,Comedy,2008,74,52,15
+Percy Jackson & the Olympians: The Lightning Thief,Action,2010,57,50,95
+Pineapple Express,Action,2008,74,68,26
+Piranha 3-D,Comedy,2010,45,74,24
+"Pirate Radio (The Boat that Rocked, UK)",Comedy,2009,72,60,50
+Pirates of the Caribbean: On Stranger Tides,Action,2011,61,34,250
+Pirates of the Caribbean: At World's End,Action,2007,74,45,300
+Please Give,Comedy,2010,62,88,3
+Post Grad ,Comedy,2009,31,7,15
+Predators,Action,2010,52,64,40
+Premonition,Drama,2007,55,8,20
+Priest,Action,2011,37,17,60
+Prince of Persia: The Sands of Time,Action,2010,71,36,200
+Prom Night,Horror,2008,46,8,18
+Punisher: War Zone,Action,2008,47,27,35
+Push ,Action,2009,47,22,38
+Quantum of Solace,Action,2008,62,64,230
+Quarantine,Horror,2008,46,59,12
+Race to Witch Mountain ,Action,2009,50,42,50
+Rachel Getting Married,Drama,2008,61,85,12
+Rambo,Action,2008,70,36,48
+Real Steel,Action,2011,81,58,110
+Red,Action,2010,72,71,58
+Red Riding Hood,Horror,2011,41,11,42
+Red State,Horror,2011,59,57,4
+Remember Me,Drama,2010,70,28,16
+Repo Men,Action,2010,43,22,32
+Resident Evil: Afterlife,Action,2010,53,24,60
+Rise of the Planet of the Apes,Action,2011,87,83,93
+Robin Hood,Action,2010,59,42,200
+Role Models,Comedy,2008,75,77,28
+Rush Hour 3,Action,2007,68,20,140
+Salt,Action,2010,62,62,110
+Sanctum,Action,2011,39,30,30
+Saw IV,Horror,2007,70,18,10
+Saw VI ,Horror,2009,67,40,11
+Scott Pilgrim vs. the World,Action,2010,83,81,60
+Scream 4,Horror,2011,57,58,40
+Season Of The Witch,Action,2011,32,10,40
+Semi-Pro,Comedy,2008,41,21,3
+Seven Pounds,Drama,2008,77,27,55
+Sex and the City,Comedy,2008,81,49,58
+Sex and the City 2,Comedy,2010,49,15,100
+Sex Drive,Adventure,2008,61,46,19
+Shame,Drama,2011,80,80,7
+Shark Night 3D,Horror,2011,25,16,25
+She's Out of My League,Comedy,2010,60,57,20
+Sherlock Holmes ,Action,2009,81,70,90
+Sherlock Holmes 2,Action,2011,79,60,125
+Shoot 'Em Up,Action,2007,66,67,39
+Shooter,Action,2007,82,47,61
+Shutter,Horror,2008,40,7,8
+Shutter Island,Drama,2010,73,68,80
+Skyline,Action,2010,19,16,10
+Smart People,Comedy,2008,41,50,7
+Solitary Man,Comedy,2009,47,81,15
+Something Borrowed,Romance,2011,0,0,35
+Sorority Row ,Horror,2009,38,22,13
+Soul Men,Comedy,2008,42,45,0
+Soul Surfer,Drama,2011,79,46,18
+Source Code,Thriller,2011,81,92,32
+Speed Racer,Action,2008,61,38,120
+Spider-Man 3,Action,2007,54,61,258
+Spy Kids: All The Time in the World,Action,2011,40,22,27
+Star Trek ,Action,2009,91,94,140
+Stardust,Adventure,2007,86,76,70
+Step Brothers,Comedy,2008,68,54,65
+Step Up 2: The Streets,Drama,2008,81,26,18
+Step Up 3D,Drama,2010,67,46,30
+Stone,Drama,2010,20,49,22
+Stop-Loss,Drama,2008,27,65,25
+Street Fighter: The Legend of Chun-Li ,Action,2009,28,16,50
+Street Kings,Action,2008,62,37,20
+Sucker Punch,Action,2011,48,23,82
+Sunshine Cleaning ,Comedy,2008,59,72,5
+Super 8 ,Horror,2011,78,82,50
+Superbad,Comedy,2007,87,88,20
+Superhero Movie,Comedy,2008,36,15,65
+Surrogates ,Action,2009,42,39,80
+Swing Vote,Comedy,2008,44,36,20
+Take Me Home Tonight,Comedy,2011,46,28,25
+Take Shelter,Drama,2011,85,92,5
+Taken ,Action,2008,83,58,25
+Takers,Action,2010,57,27,32
+Taking Woodstock ,Comedy,2009,48,48,29
+Terminator Salvation ,Action,2009,64,33,200
+The A-Team,Action,2010,71,47,100
+The Adjustment Bureau,Thriller,2011,67,72,51
+The Adventures of Tintin,Adventure,2011,78,74,130
+The Artist,Drama,2011,91,97,16
+The Back-up Plan,Comedy,2010,47,20,35
+The Bank Job,Thriller,2008,74,78,20
+The Beaver,Drama,2011,57,62,21
+The Big Year,Comedy,2011,62,38,41
+The Book of Eli        ,Action,2010,68,48,80
+The Bounty Hunter,Action,2010,41,7,40
+The Bourne Ultimatum,Thriller,2007,91,93,110
+The Box ,Drama,2009,27,46,30
+The Boy in the Striped Pyjamas,Drama,2008,84,63,13
+The Brave One,Action,2007,65,43,70
+The Bucket List,Drama,2007,81,41,45
+The Change Up,Comedy,2011,53,24,52
+The Chronicles of Narnia: Prince Caspian,Action,2008,78,66,200
+The Chronicles of Narnia: The Voyage of the Dawn Treader,Adventure,2010,63,49,155
+The Company Men,Drama,2010,55,66,15
+The Conspirator,Drama,2010,65,56,25
+The Crazies,Horror,2010,54,72,20
+The Darjeeling Limited,Drama,2007,79,67,18
+The Dark Knight,Thriller,2008,96,94,185
+The Day the Earth Stood Still ,Thriller,2008,34,19,100
+The Debt,Thriller,2010,70,76,20
+The Descendants,Drama,2011,88,89,20
+The Dilemma,Comedy,2011,31,23,70
+The Duchess,Drama,2008,68,60,14
+The Eagle,Action,2011,43,39,25
+The Expendables,Action,2010,58,40,82
+The Eye,Horror,2008,51,22,12
+The Fighter,Drama,2010,88,91,25
+The Final Destination ,Horror,2009,52,29,40
+The Forbidden Kingdom,Action,2008,65,64,55
+The Game Plan,Comedy,2007,75,27,22
+The Girl With The Dragon Tattoo,Thriller,2011,89,87,90
+The Golden Compass,Action,2007,55,42,180
+The Green Hornet,Action,2011,47,44,120
+The Hangover ,Comedy,2009,87,79,35
+The Hangover Part II,Comedy,2011,58,35,80
+The Happening,Thriller,2008,29,19,48
+The Haunting in Connecticut ,Drama,2009,51,17,30
+The Haunting of Molly Hartley,Horror,2008,22,3,5
+The Heartbreak Kid,Comedy,2007,41,30,60
+The Help,Drama,2011,91,75,25
+The Hills Have Eyes 2,Horror,2007,50,11,15
+The House Bunny,Comedy,2008,54,39,25
+The Hurt Locker ,Drama,2008,83,97,15
+The Ides of March,Thriller,2011,76,85,13
+The Incredible Hulk,Action,2008,75,67,138
+The Informant! ,Comedy,2009,42,78,22
+The International ,Action,2009,39,58,50
+The Invention of Lying ,Comedy,2009,47,56,19
+The Iron Lady,Drama,2011,54,53,13
+The Joneses,Comedy,2011,47,61,10
+The Karate Kid,Action,2010,75,66,40
+The Kids Are All Right,Comedy,2010,72,94,4
+The Kingdom,Action,2007,78,52,80
+The Kite Runner,Drama,2007,85,66,20
+The Last Airbender,Action,2010,42,6,150
+The Last Exorcism,Drama,2010,32,73,2
+The Last Song,Drama,2010,66,19,20
+The Lincoln Lawyer,Drama,2011,82,84,40
+The Longshots,Comedy,2008,39,39,30
+The Losers,Action,2010,55,47,25
+The Love Guru,Comedy,2008,38,14,62
+The Lovely Bones ,Drama,2009,57,32,65
+The Mechanic,Action,2011,52,53,40
+The Men Who Stare at Goats ,Comedy,2009,43,52,25
+The Mist,Horror,2007,64,72,18
+The Mummy: Tomb of the Dragon Emperor,Action,2008,40,14,145
+The Muppets,Comedy,2011,87,97,45
+The Nanny Diaries,Comedy,2007,52,33,20
+The Other Boleyn Girl,Drama,2008,65,41,40
+The Other Guys,Action,2010,57,78,100
+The Pink Panther 2 ,Adventure,2009,47,12,59
+The Proposal ,Comedy,2009,74,43,40
+The Reaping,Horror,2007,53,9,40
+The Rite,Horror,2011,43,20,37
+The Road ,Adventure,2009,65,75,25
+The Roommate,Horror,2011,29,4,16
+The Ruins,Horror,2008,32,46,25
+The Rum Diary,Drama,2011,48,50,45
+The Secret Life of Bees,Drama,2008,78,56,11
+The Simpsons Movie,Comedy,2007,78,90,75
+The Sitter,Comedy,2011,43,22,25
+The Soloist ,Drama,2009,59,56,60
+The Son Of No One,Thriller,2011,61,18,15
+The Sorcerer's Apprentice,Action,2010,57,42,150
+The Spirit,Action,2008,29,14,6
+The Spy Next Door,Action,2010,46,13,0
+The Strangers,Horror,2008,48,44,9
+The Switch,Comedy,2010,44,52,19
+The Taking of Pelham 1 2 3 ,Action,2009,60,51,100
+The Thing,Horror,2011,52,36,38
+The Three Musketeers,Action,2011,48,24,75
+The Time Traveler's Wife ,Drama,2009,65,38,39
+The Tourist,Thriller,2010,44,20,100
+The Tree Of Life,Drama,2011,61,84,32
+"The Twilight Saga: Eclipse	",Drama,2010,74,50,68
+The Twilight Saga: New Moon ,Drama,2009,78,27,50
+The Ugly Truth ,Comedy,2009,68,14,38
+The Unborn,Horror,2009,39,11,16
+The Uninvited ,Drama,2009,52,31,0
+The Visitor,Drama,2007,83,92,4
+The Wolfman,Drama,2010,38,33,150
+The Women,Drama,2008,41,13,16
+The X-Files: I Want to Believe,Thriller,2008,34,32,35
+There Will Be Blood,Drama,2007,84,91,25
+Thor,Action,2011,80,77,150
+Tinker Tailor Soldier Spy,Thriller,2011,68,83,21
+TMNT,Action,2007,63,33,35
+Tooth Fairy,Comedy,2010,46,16,48
+Tower Heist,Comedy,2011,61,68,75
+Traitor,Thriller,2008,66,55,22
+Transformers,Action,2007,89,57,150
+Transformers: Dark of the Moon,Action,2011,67,35,195
+Transformers: Revenge of the Fallen ,Action,2009,76,20,210
+Transporter 3,Action,2008,58,36,30
+Trespass,Thriller,2011,24,11,35
+Tron: Legacy,Action,2010,67,50,170
+Tropic Thunder,Comedy,2008,69,83,90
+True Grit,Adventure,2010,86,96,38
+Twilight,Romance,2008,82,49,37
+Twilight: Breaking Dawn,Romance,2011,68,26,110
+Tyler Perry's Meet the Browns,Drama,2008,36,31,20
+Tyler Perry's The Family That Preys,Drama,2008,36,51,10
+Tyler Perry's Why Did I get Married,Romance,2007,47,46,15
+Under the Same Moon,Drama,2007,37,72,2
+Underworld: Rise of the Lycans ,Action,2009,68,30,35
+Unknown,Thriller,2011,57,55,30
+Unstoppable,Action,2010,73,86,95
+Untraceable,Thriller,2008,56,14,35
+Up in the Air ,Drama,2009,76,90,25
+Vacancy,Comedy,2007,46,55,19
+Valentine's Day,Comedy,2010,54,17,52
+Valkyrie,Thriller,2008,66,58,75
+Vampires Suck,Comedy,2010,32,4,20
+Vanishing on 7th Street,Horror,2010,62,52,10
+Vantage Point,Thriller,2008,61,35,40
+Vicky Cristina Barcelona,Romance,2008,73,82,16
+W.,Drama,2008,42,60,26
+Waiting For Forever,Romance,2010,53,6,5
+Waitress,Romance,2007,67,89,2
+Walk Hard: The Dewey Cox Story,Comedy,2007,55,75,35
+Wall Street: Money Never Sleeps,Drama,2010,43,54,70
+Wanted,Action,2008,72,73,75
+War Horse,Drama,2011,73,77,66
+Warrior,Action,2011,93,83,25
+Watchmen ,Action,2009,68,64,130
+Water For Elephants,Drama,2011,72,60,38
+We Bought a Zoo,Comedy,2011,79,63,50
+We Own the Night,Drama,2007,63,55,21
+"Welcome Home, Roscoe Jenkins",Comedy,2008,64,24,35
+What Happens in Vegas,Comedy,2008,72,28,35
+What's Your Number,Comedy,2011,50,24,20
+Whatever Works ,Comedy,2009,63,50,15
+When in Rome,Comedy,2010,44,15,0
+Where the Wild Things Are ,Adventure,2009,59,73,100
+Whip It ,Drama,2009,73,84,15
+Whiteout ,Action,2009,28,7,35
+Why Did I Get Married Too?,Comedy,2010,67,27,20
+Wild Hogs,Comedy,2007,72,14,90
+Winter's Bone,Drama,2010,73,94,2
+X-Men Origins: Wolverine ,Action,2009,72,37,150
+X-Men: First Class,Action,2011,88,87,160
+Year One ,Adventure,2009,31,14,60
+Yes Man,Comedy,2008,72,43,70
+Yogi Bear,Comedy,2010,36,14,80
+You Again,Comedy,2010,45,18,20
+You Don't Mess with the Zohan,Comedy,2008,50,36,80
+You Will Meet a Tall Dark Stranger,Comedy,2010,35,43,22
+Your Highness,Comedy,2011,36,26,50
+Youth in Revolt,Comedy,2009,52,68,18
+Zack and Miri Make a Porno,Romance,2008,70,64,24
+Zodiac,Thriller,2007,73,89,65
+Zombieland ,Action,2009,87,90,24
+Zookeeper,Comedy,2011,42,14,80

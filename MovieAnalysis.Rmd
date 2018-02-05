@@ -1,0 +1,135 @@
+---
+title: "GGplot movie analysis"
+output: html_notebook
+---
+
+- Importing the movie dataset and summarizing it
+```{r}
+movierating = read.csv("Movie-Ratings.csv")
+```
+Checking out the columns
+```{r}
+colnames(movierating)
+```
+Checking the structure of columns
+```{r}
+str(movierating)
+```
+Question - Do audiences rate movies as high as the Rotten tomato critics?
+Answer - Overall, yes. But lets check it per genre
+```{r}
+ggplot(data = movierating, aes(x = AudienceRating, y = RottenTomatoRating)) + 
+  geom_point()
+```
+Question - How does the rating pan out per genre? Lets color the points by genre
+```{r}
+ggplot(data = movierating, aes(x = AudienceRating, y = RottenTomatoRating, color = Genre)) + 
+  geom_point() + 
+  geom_smooth(fill = NA)
+```
+The most movies are released in the action genre
+```{r}
+ggplot(data = movies, aes(x = Genre)) + 
+  geom_bar()
+```
+Let check another movie dataset with more columns
+```{r}
+movies = read.csv("movies.csv")
+
+dim(movies)
+
+```
+- Checking the head of the movies dataset
+- The movies data set has 608 rows and 18 columns
+
+```{r}
+head(movies)
+```
+- Checking the structure of the dataset
+```{r}
+str(movies)
+```
+-importing the package ggplot
+```{r}
+library(ggplot2)
+```
+- Plotting a histogram for days of week
+- INSIGHT : No movies are released on Monday!
+```{r}
+ggplot(data = movies, aes(x = Day.of.Week)) + 
+  geom_bar()
+```
+- Most profit comes from movies released on Friday
+```{r}
+qplot(data = movies, x = Day.of.Week, y = Profit.)
+```
+- Both IMDB rating and movielens rating are pretty highly correlated
+```{r}
+ggplot(data = movies, aes(x = MovieLens.Rating, y = IMDb.Rating, color = Genre)) + 
+  geom_point()
+```
+- Lets filter out the most popular movie genres for the sake of visulaizations
+```{r}
+populargenres = movies$Genre %in% c("action", "adventure", "animation", "comedy", "drama")
+```
+- Lets filter popular studios as well
+```{r}
+popularStudios = movies$Studio %in% c("Buena Vista Studios", "WB", "Fox", "Universa", "Sony", "Paramount Pictures")
+```
+Combining the two
+```{r}
+movies1 = movies[populargenres & popularStudios,]
+
+```
+- Which genre produces the highest gross?
+```{r}
+p = ggplot(data = movies1, aes(x = Genre, y = Gross...US))
+p +
+  geom_point()
+
+```
+- Creating a box plot
+- Comedy is most popular followed by action adn animation
+```{r}
+p +
+  geom_boxplot()
+
+```
+- We can also see the data points on the plot for wach boxplot by using the geom_jitter layer
+```{r}
+p +
+  geom_boxplot() +
+  geom_jitter()
+```
+- Great, but the first boxplot looks ugly because of too many points, we can add some transparency to the boxplot by setting the alpha to some value. but for that we need to add the jitter layer first and the the boxplot otherwise the jitter layer will always appear over the boxplot and adding any transparency to the boxplot would not help
+```{r}
+p +
+  geom_jitter()+
+  geom_boxplot(alpha = 0.6) 
+  
+
+```
+- We can map the aesthetics to whatever we want and create better visuals. For instance, let us color the data points by studio and size of data points by budget
+```{r}
+p +
+  geom_jitter(aes(color = Studio, size = Budget...mill.))+
+  geom_boxplot(alpha = 0.6) 
+```
+- We still see some black dots which are the outliers, lets remove them
+```{r}
+p +
+  geom_jitter(aes(color = Studio, size = Budget...mill.))+
+  geom_boxplot(alpha = 0.6, outlier.colour = NA) 
+
+```
+- Lets change the y label and add a good title to it
+```{r}
+a = p +
+  geom_jitter(aes(color = Studio, size = Budget...mill.))+
+  geom_boxplot(alpha = 0.6, outlier.colour = NA) 
+a + 
+  ylab("Gross revenue in the United States") + 
+  ggtitle("Revenue")
+
+```
+
